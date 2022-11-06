@@ -1,0 +1,10 @@
+[ req ]
+distinguished_name  = subject
+prompt              = no
+
+[ subject ]
+countryName         = HU
+stateOrProvinceName = Budapest
+localityName        = Budapest
+commonName          = rootca
+emailAddress        = noreply@rootca
